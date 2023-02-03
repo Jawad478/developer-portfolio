@@ -12,6 +12,7 @@ h1 {
 
 section {
   display: flex;
+  margin-bottom: 100px;
 }
 
 .half-width {
@@ -43,3 +44,23 @@ p {
   background-image: url(/developer-protfolio/images/top-banner.png);
   background-repeat: no-repeat;
 }
+
+.dream-big{
+  background-image: url(/developer-protfolio/images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.dream-parag{
+  margin-right: 150px;
+}
+
+.link-button_2{
+  text-decoration: none;
+  background-image: linear-gradient(rgb(219, 55, 14), rgb(207, 78, 55));
+  padding: 10px 40px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
