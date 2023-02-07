@@ -10,7 +10,7 @@ h1 {
   color: orange;
 }
 
-section {
+.flexible-container{
   display: flex;
   margin-bottom: 100px;
 }
@@ -64,3 +64,6 @@ p {
   font-weight: 700;
 }
 
+.Baby-Web{
+  padding-right: 10%;
+}
